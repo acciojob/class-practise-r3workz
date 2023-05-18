@@ -1,5 +1,10 @@
 /*  your css code here. If applicable */
-p.p1, p.p3{
+p.p1{
+	color: #00f;
+    background-color: #eee;
+    font-size: 18px;
+}
+p.p3{
     color: #00f;
     background-color: #eee;
     font-size: 18px;
